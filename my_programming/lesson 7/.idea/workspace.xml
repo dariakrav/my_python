@@ -2,20 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61307505-9618-4e63-81ea-e9f72215da9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson 6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson 6/del_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson 6/interval_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson 6/new_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/end_count_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ lesson 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ lesson 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson 4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson 5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/home_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/homework2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/homework3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/homework4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home_work/update_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/lesson 10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/bank_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/csv_praactice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/dogs_breed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/example_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/temper.stat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 10/file_examples/temper_calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/lesson 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/dict_cinema_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/max5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/my_tasks_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 9/random1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/end_count_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -73,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_tasks.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -100,12 +125,15 @@
         <option value="$PROJECT_DIR$/uncle.py" />
         <option value="$PROJECT_DIR$/end_count_sum.py" />
         <option value="$PROJECT_DIR$/nums.py" />
+        <option value="$PROJECT_DIR$/example_text.txt" />
+        <option value="$PROJECT_DIR$/file_reader.py" />
+        <option value="$PROJECT_DIR$/file_examples/file_reader.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="442" />
-    <option name="y" value="128" />
+    <option name="x" value="397" />
+    <option name="y" value="132" />
     <option name="width" value="879" />
     <option name="height" value="693" />
   </component>
@@ -132,6 +160,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file_examples" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -144,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nums">
+  <component name="RunManager" selected="Python.file_reader">
     <configuration name="count_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lesson 7" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lesson 7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_examples/file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_reader" />
         <item itemvalue="Python.nums" />
         <item itemvalue="Python.end_count_sum" />
         <item itemvalue="Python.uncle" />
         <item itemvalue="Python.count_sum" />
-        <item itemvalue="Python.game_num" />
       </list>
     </recent_temporary>
   </component>
@@ -274,15 +307,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="128" width="879" height="693" extended-state="0" />
+    <frame x="397" y="132" width="879" height="693" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941725" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294509" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,6 +328,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/try.py" />
@@ -315,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/end_count_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uncle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -338,6 +367,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_tasks.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_examples/example_text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_examples/file_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/end_count_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
